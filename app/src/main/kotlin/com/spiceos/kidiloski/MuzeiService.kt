@@ -1,4 +1,4 @@
-package dev.jahir.frames.app
+package com.spiceos.kidiloski
 
 import dev.jahir.frames.muzei.FramesArtProvider
 

@@ -1,4 +1,4 @@
-package dev.jahir.frames.app
+package com.spiceos.kidiloski
 
 /* TODO: Remove comment marks to enable
 import android.content.Context
